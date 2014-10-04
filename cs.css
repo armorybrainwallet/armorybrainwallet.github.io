@@ -1,0 +1,34 @@
+html {
+  font-family: geneva, sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+body {
+  margin: 0; background-color: #fff; text-align: center;
+}
+.logo {
+	height: 350px;
+	background: url('armory.png') no-repeat center; min-height: 100%;
+	margin: 50px 0 0 0;
+}
+.tit {
+	color: #162959;
+	font-size: 18px;
+	margin-bottom: 15px;
+}
+.tit1 {
+	color: #bc214c;
+	font-size: 18px;
+	margin-top: 60px;
+	margin-bottom: 15px;
+}
+
+input {
+	color: #1c59b4; width: 55%; border:1px solid #162959;font-size: 16px; padding: 5px; text-align: center; 
+}
+.line {font-family: Courier; font-size: 18px; color: #162959; margin-bottom: 10px;}
+.comment {
+	font-size: 12px;
+	margin-top: 120px;
+	color: #1c59b4;
+}
